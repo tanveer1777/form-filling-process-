@@ -1,3 +1,3 @@
-# project-js
-this project contains form filling and showing result in page directly.
-https://tanveer1777.github.io/project-js/
+#form filling process
+this project contains form filling process which can be seen directly in webpage and stored data in local database.
+https://github.com/tanveer1777/form-filling-process-.git
